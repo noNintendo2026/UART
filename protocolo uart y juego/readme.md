@@ -4,7 +4,7 @@
 
 ## 1. Objetivo
 
-Especificar cómo el periférico UART, mapeado en `0x400000-0x40FFFF` del SoC del curso, se usará dentro del videojuego para **mostrar el puntaje del jugador** en un arreglo de pantallas **M5Stack Chain Mono** (matrices LED de 8×8 píxeles conectadas en cadena).
+Especificar cómo el protocolo de comunicaciòn UART, mapeado en `0x400000-0x40FFFF` del SoC del curso, se usará dentro del videojuego para **mostrar el puntaje del jugador** en un arreglo de pantallas **M5Stack Chain Mono** (matrices LED de 8×8 píxeles conectadas en cadena).
 
 Este documento cubre dos capas separadas, porque **no tienen el mismo dueño**:
 
