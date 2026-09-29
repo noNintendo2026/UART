@@ -43,7 +43,7 @@ flowchart TD
     D --> E["RX_READY = 1<br/><small>firmware puede leer RX_DATA</small>"]
 ```
 
-**Por qué necesitamos RX y no solo TX:** el protocolo Chain Bus del fabricante espera una trama de respuesta por cada comando enviado (`Operation_status`, ver sección 4), así que el FPGA actúa como maestro **full-duplex**, no solo como transmisor [4].
+**RX y TX:** el protocolo Chain Bus del fabricante espera una trama de respuesta por cada comando enviado (`Operation_status`, ver sección 4), así que el FPGA actúa como maestro **full-duplex**, no solo como transmisor [4].
 
 ### 2.4 Registros CSR propuestos
 
@@ -55,7 +55,7 @@ flowchart TD
 
 ---
 
-## 3. Dónde encaja UART en el flujo del juego
+## 3.UART en el flujo del juego
 
 ```mermaid
 flowchart TD
