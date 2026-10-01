@@ -1,0 +1,1 @@
+# Especificaciones pantalla
