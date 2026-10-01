@@ -13,4 +13,20 @@ En estado de reposo, el cable mantiene un voltaje alto. Cuando se inicia la comu
 Chain Mono es un nodo de pantalla LED de la serie Chain de M5Stack, que incorpora una unidad de matriz de puntos LED monocromática de 8×8. Admite el control independiente de píxeles, la escritura de píxeles por lotes y la actualización rápida del búfer de pantalla completa. Integra generación de caracteres ASCII, desplazamiento de cadenas de texto, ajuste de brillo y rotación de pantalla en varios ángulos, lo que permite crear diversos efectos dinámicos de luz y animaciones de píxeles. Es ideal para creaciones de luces de píxeles, iluminación ambiental de escritorio, letreros luminosos creativos e iluminación indicadora para dispositivos inteligentes. Chain Mono funciona con un controlador principal STM32G031G8U6 y utiliza un protocolo de comunicación serie UART en cadena (daisy-chain). A través de dos interfaces de expansión HY2.0-4P, se puede ampliar con más dispositivos de la serie Chain para construir aplicaciones interactivas más completas.
 
 <img width="1600" height="1040" alt="M5STACK" src="https://github.com/user-attachments/assets/406a6764-53d2-4efb-abb8-ee6831174e31" />
+## Especificaciones tècnicas
+## Chain Mono (SKU: U217) - Especificaciones
 
+| Especificación | Parámetro |
+|---|---|
+| MCU | STM32G031G8U6 |
+| Alimentación de entrada | DC 5 V |
+| Comunicación | UART 115200 bps @ 8N1 |
+| Interfaz | 2 x HY2.0-4P |
+| Color del LED | Blanco |
+| Consumo en reposo | DC 5 V @ 8.13 mA |
+| Consumo en operación | DC 5 V @ 22.29 mA (brillo máximo, todos encendidos) |
+| Temperatura de operación | 0 ~ 40 °C |
+| Tamaño del producto | 24.0 x 24.0 x 16.0 mm |
+| Peso del producto | 6.2 g |
+| Tamaño del paquete | 138.0 x 93.0 x 11.0 mm |
+| Peso bruto | 13.2 g |
