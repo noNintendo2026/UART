@@ -14,7 +14,6 @@ Chain Mono es un nodo de pantalla LED de la serie Chain de M5Stack, que incorpor
 
 <img width="1600" height="1040" alt="M5STACK" src="https://github.com/user-attachments/assets/406a6764-53d2-4efb-abb8-ee6831174e31" />
 ## Especificaciones tècnicas
-## Chain Mono (SKU: U217) - Especificaciones
 
 | Especificación | Parámetro |
 |---|---|
