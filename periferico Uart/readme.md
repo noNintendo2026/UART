@@ -13,6 +13,7 @@ En estado de reposo, el cable mantiene un voltaje alto. Cuando se inicia la comu
 Chain Mono es un nodo de pantalla LED de la serie Chain de M5Stack, que incorpora una unidad de matriz de puntos LED monocromática de 8×8. Admite el control independiente de píxeles, la escritura de píxeles por lotes y la actualización rápida del búfer de pantalla completa. Integra generación de caracteres ASCII, desplazamiento de cadenas de texto, ajuste de brillo y rotación de pantalla en varios ángulos, lo que permite crear diversos efectos dinámicos de luz y animaciones de píxeles. Es ideal para creaciones de luces de píxeles, iluminación ambiental de escritorio, letreros luminosos creativos e iluminación indicadora para dispositivos inteligentes. Chain Mono funciona con un controlador principal STM32G031G8U6 y utiliza un protocolo de comunicación serie UART en cadena (daisy-chain). A través de dos interfaces de expansión HY2.0-4P, se puede ampliar con más dispositivos de la serie Chain para construir aplicaciones interactivas más completas.
 
 <img width="1600" height="1040" alt="M5STACK" src="https://github.com/user-attachments/assets/406a6764-53d2-4efb-abb8-ee6831174e31" />
+
 ## Especificaciones tècnicas
 
 | Especificación | Parámetro |
