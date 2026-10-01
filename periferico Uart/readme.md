@@ -31,7 +31,7 @@ Chain Mono es un nodo de pantalla LED de la serie Chain de M5Stack, que incorpor
 
 ##  Uso del Chain Mono en el videojuego
 
-El juego usa **4 módulos Chain Mono** conectados en cadena como una sola pantalla LED.
+El juego usa **4 módulos M5STACK** conectados en cadena como una sola pantalla LED.
 
 ### La pantalla
 
