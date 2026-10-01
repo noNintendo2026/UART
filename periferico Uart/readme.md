@@ -103,3 +103,9 @@ Cada cuadro de un módulo ocupa 8 bytes más la cabecera del protocolo. Con 4 m�
 | Peso bruto | 13.2 g |
 
 <img width="826" height="445" alt="STM32G031G8U6" src="https://github.com/user-attachments/assets/7fb01602-969e-4412-a710-2655d6f9bbb8" />
+
+### Link video funcionamiento
+https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1245/U217_Chain_Mono_video_EN.mp4 
+
+
+
