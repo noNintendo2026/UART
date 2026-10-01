@@ -9,3 +9,4 @@ La comunicación UART es una conexión física punto a punto entre dos dispositi
 ### ¿Cómo viaja la información?
 En estado de reposo, el cable mantiene un voltaje alto. Cuando se inicia la comunicación, el transmisor genera cambios rápidos de voltaje (alto/bajo) que el receptor lee secuencialmente, bit por bit.
 <img width="600" height="583" alt="Introduction-to-UART-Data-Transmission-Diagram-UART-Gets-Byte-from-Data-Bus-600x583" src="https://github.com/user-attachments/assets/e367fa60-4ea2-44ae-8fcf-55d29ca0ab2b" />
+# Pantalla M5STACK
