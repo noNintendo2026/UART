@@ -101,3 +101,5 @@ Cada cuadro de un módulo ocupa 8 bytes más la cabecera del protocolo. Con 4 m�
 
 | Tamaño del paquete | 138.0 x 93.0 x 11.0 mm |
 | Peso bruto | 13.2 g |
+
+<img width="826" height="445" alt="STM32G031G8U6" src="https://github.com/user-attachments/assets/7fb01602-969e-4412-a710-2655d6f9bbb8" />
